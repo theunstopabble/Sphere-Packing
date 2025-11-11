@@ -25,15 +25,6 @@ Welcome to the **Sphere-Packing** project — a visually engaging live demo desi
 - HTML (31.1%) 🌐
 - JavaScript (25.2%) ⚙️
 
----
-
-## Demo 🚀
-
-Try the live demo here:  
-[https://sphere-packing.netlify.app/](https://sphere-packing.netlify.app/)
-
----
-
 ## Installation & Usage 💻
 
 No installation required!  
